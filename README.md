@@ -141,14 +141,6 @@ Networking/
 - Improved **debugging & troubleshooting ability**  
 
 
-## 👨‍💻 Author
-
-**Showkot Hosen**  
-🎓 BSc Engineering (ETCE)  
-🔐 Aspiring Cybersecurity Engineer  
-
-
-
 ## ⭐ Contribution & Usage
 
 This repository is intended for:
