@@ -11,7 +11,7 @@
 
 ## 📁 Repository Structure
 
-
+```
 
 Networking/
 │
@@ -77,7 +77,7 @@ Networking/
 └── lab6.png
 
 
-
+```
 
 ## 🧪 Labs Overview
 
