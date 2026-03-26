@@ -63,10 +63,10 @@ Networking/
 │   │   └── acl_task3.pkt
 │
 ├── Xtraa/
-   ├── practice1.pkt
-   ├── practice2.pkt
-   ├── troubleshooting.pkt
-   └── advanced_configs.pkt│
+│   ├── practice1.pkt
+│   ├── practice2.pkt
+│   ├── troubleshooting.pkt
+│   └── advanced_configs.pkt│
 
 
 ```
