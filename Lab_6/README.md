@@ -3,7 +3,7 @@
 
 # 📁 **Lab 6: ACL Configuration & Traffic Filtering**
 
-```markdown
+
 # 🔐 ACL Configuration and Traffic Filtering
 
 ## 🎯 Objectives
@@ -42,6 +42,20 @@ Subnet Mask: `255.255.255.0`
 
 ### Task 1
 Permit only PC9:
-```bash
+
 access-list 10 permit host 192.168.4.3
 access-list 10 deny any
+
+### Task 2
+no access-list 10
+access-list 20 deny host 192.168.2.3
+access-list 20 permit any
+
+### Task 3
+access-list 30 permit 192.168.4.0 0.0.0.255
+access-list 30 permit host 192.168.3.2
+access-list 30 permit host 192.168.2.3
+access-list 30 deny any
+
+
+---
