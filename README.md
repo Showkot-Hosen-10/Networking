@@ -174,6 +174,19 @@ All networks are primarily configured using:
 - Network Automation (Python)  
 - IDS/IPS Integration (ML-based 🔥)
 
+## 👨‍💻 Author
 
+**Created by Showkot Hosen**  
+
+🔐 Researcher in AI/ML for Cybersecurity  
+🎓 CUET - Electronics & Telecommunication Engineering (ETE)  
+📜 ISC2 Certified in Cybersecurity (CC)  
+🛡️ Cisco Certified Ethical Hacker  
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: www.linkedin.com/in/showkot-hosen10
 
 
