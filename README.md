@@ -63,18 +63,10 @@ Networking/
 │   │   └── acl_task3.pkt
 │
 ├── Xtraa/
-│   ├── practice1.pkt
-│   ├── practice2.pkt
-│   ├── troubleshooting.pkt
-│   └── advanced_configs.pkt
-│
-└── images/
-├── lab1.png
-├── lab2.png
-├── lab3.png
-├── lab4.png
-├── lab5.png
-└── lab6.png
+   ├── practice1.pkt
+   ├── practice2.pkt
+   ├── troubleshooting.pkt
+   └── advanced_configs.pkt│
 
 
 ```
