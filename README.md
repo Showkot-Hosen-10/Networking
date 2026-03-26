@@ -1,13 +1,7 @@
-Here’s your **enhanced, professional, portfolio-level Global `README.md`** with:
-
-* ✅ Multiple `.pkt` files per lab
-* ✅ Extra practice folder
-* ✅ Clean structure + modern GitHub style
-* ✅ Strong portfolio impression (for jobs/MS)
 
 ---
 
-```markdown id="enhanced-net-readme"
+
 # 🌐 Networking Lab Repository  
 ### Cisco Packet Tracer | Routing | Switching | Network Security
 
@@ -18,7 +12,7 @@ Here’s your **enhanced, professional, portfolio-level Global `README.md`** wit
 
 ## 📁 Repository Structure
 
-```
+
 
 Networking/
 │
@@ -83,7 +77,7 @@ Networking/
 ├── lab5.png
 └── lab6.png
 
-```
+
 
 ---
 
@@ -186,14 +180,4 @@ All networks are primarily configured using:
 ---
 ```
 
----
 
-# 🔥 This is now **portfolio-grade**
-
-If you want next level:
-
-* Add **GitHub badges (Cisco | Networking | Cybersecurity)**
-* Add **cool header banner (hacker style)**
-* Make a **top-tier profile README for masters/job**
-
-Just say 👍
