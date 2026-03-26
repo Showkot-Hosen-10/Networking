@@ -8,7 +8,6 @@
 > A structured collection of **hands-on networking labs** covering fundamental to intermediate concepts using Cisco Packet Tracer.  
 > Designed for **academic learning, practical understanding, and portfolio building**.
 
----
 
 ## 📁 Repository Structure
 
@@ -79,7 +78,6 @@ Networking/
 
 
 
----
 
 ## 🧪 Labs Overview
 
@@ -92,7 +90,7 @@ Networking/
 | 🔹 Lab 5 | RIP Dynamic Routing |
 | 🔹 Lab 6 | ACL Configuration & Traffic Filtering |
 
----
+
 
 ## 🧠 Concepts Covered
 
@@ -103,7 +101,7 @@ Networking/
 - 🔐 Access Control Lists (ACL)  
 - 🧪 Packet-Level Simulation & Debugging  
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -112,7 +110,7 @@ Networking/
 - Routing Protocols (Static, RIP)
 - Network Security (ACL)
 
----
+
 
 ## 🚀 How to Use
 
@@ -122,7 +120,7 @@ Networking/
 4. Modify configs and test different scenarios  
 5. Practice using files in **Xtraa/** folder  
 
----
+
 
 ## 📌 Key Features
 
@@ -132,7 +130,7 @@ Networking/
 - 📘 Theory + implementation combined  
 - 💡 Beginner → Intermediate progression  
 
----
+
 
 ## 📈 Learning Outcomes
 
@@ -142,7 +140,6 @@ Networking/
 - Hands-on skills in **network security (ACLs)**  
 - Improved **debugging & troubleshooting ability**  
 
----
 
 ## 👨‍💻 Author
 
@@ -150,7 +147,7 @@ Networking/
 🎓 BSc Engineering (ETCE)  
 🔐 Aspiring Cybersecurity Engineer  
 
----
+
 
 ## ⭐ Contribution & Usage
 
@@ -161,14 +158,14 @@ This repository is intended for:
 
 Feel free to fork, clone, and enhance the labs.
 
----
+
 
 ## 📌 Note
 
 All networks are primarily configured using:  
 👉 **Subnet Mask: 255.255.255.0 (/24)**  
 
----
+
 
 ## 🚀 Future Improvements
 
@@ -177,7 +174,6 @@ All networks are primarily configured using:
 - Network Automation (Python)  
 - IDS/IPS Integration (ML-based 🔥)
 
----
-```
+
 
 
