@@ -3,7 +3,7 @@
 
 # 📁 **Lab 6: ACL Configuration & Traffic Filtering**
 
-
+![Topology](https://www.computernetworkingnotes.com/ccna-study-guide/basic-concepts-and-fundamentals-of-acls.html)
 # 🔐 ACL Configuration and Traffic Filtering
 
 ## 🎯 Objectives
